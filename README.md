@@ -1,16 +1,15 @@
-### Hi there 👋
+👨‍💻 Обо мне:
 
-<!--
-**notbobur/notbobur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб разработчик. Интерес к IT появился с того что я хорошо разбирался в технике , и потом заинтересовался программированием , и решил учиться на веб разработчика , и недавно окончил курсы ! В настоящее время нахожусь в поисках работы и был бы рад посотрудничать с вами !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Завершил курсы по веб-разработке IT PARK !
+
+### Languages and Tools:
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+ 
+
+ ### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/qsvvx)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/iamboburr)
+
